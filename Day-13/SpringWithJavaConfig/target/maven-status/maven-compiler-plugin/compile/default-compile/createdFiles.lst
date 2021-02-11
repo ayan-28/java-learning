@@ -1,0 +1,4 @@
+com\ayan\SpringWithJavaConfig\AppWithJavaConfig.class
+com\ayan\SpringWithJavaConfig\beans\Order.class
+com\ayan\SpringWithJavaConfig\beans\IStore.class
+com\ayan\SpringWithJavaConfig\beans\Store.class
