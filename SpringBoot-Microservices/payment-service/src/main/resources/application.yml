@@ -1,0 +1,9 @@
+server:
+ port: 8082
+
+spring:
+ h2: 
+  console:
+   enabled: true
+ application:
+  name: PAYMENT-SERVICE

@@ -1,0 +1,15 @@
+server:
+  port: 8081
+
+spring:
+  h2:
+    console:
+      enabled: true
+  application:
+    name: ORDER-SERVICE
+
+payment-services:
+  url: http://PAYMENT-SERVICE/payment/doPayment
+
+
+
